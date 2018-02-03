@@ -173,6 +173,10 @@ hr {
 	display: table-cell;
 	vertical-align: bottom;
 }
+#intro .intro-body img{
+	height: 50px;
+	width: 50px;
+}
 #intro .intro-body H1 {
 	font-size: 60px;
 	font-weight: 700;

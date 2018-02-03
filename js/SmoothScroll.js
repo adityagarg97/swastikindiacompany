@@ -114,6 +114,7 @@ function init() {
              html.offsetHeight <= windowHeight)) {
 
         html.style.height = 'auto';
+        $(result).listview('refresh');
         setTimeout(refresh, 10);
 
         // clearfix
