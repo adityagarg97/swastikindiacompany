@@ -163,7 +163,8 @@ hr {
 	text-align: center;
 	color: #fff;
 	background: url(../img/intro-bg1.jpg) no-repeat center center fixed;
-	background-color: #000;
+    background-size: cover;
+	background-color:#f6f6f6;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -439,7 +440,7 @@ img.img-thumbnail.team-img {
 }
 /* Testimonials Section */
 #testimonials {
-	background: url(../img/testimonials-bg.jpg);
+	background: url(../img/testimonials-bg.jpg) no-repeat center center fixed;
 	background-size: cover;
 	background-attachment: fixed;
 	color: #ddd;
