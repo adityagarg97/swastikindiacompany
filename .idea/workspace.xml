@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c75e68e4-16db-42f3-b986-cec8ec5a8d6c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/f.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chatApp/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../chatApp/frontend/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chatApp/frontend/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../chatApp/frontend/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chatApp/node_modules/parsejson/.npmignore" beforeDir="false" />
@@ -72,11 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="500" column="10" lean-forward="true" selection-start-line="500" selection-start-column="10" selection-end-line="500" selection-end-column="10" />
+              <caret line="500" column="10" selection-start-line="500" selection-start-column="10" selection-end-line="500" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="157" column="31" selection-start-line="157" selection-start-column="31" selection-end-line="157" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -90,6 +86,7 @@
       <find>refresh</find>
       <find>moder</find>
       <find>boot</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -197,12 +194,13 @@
       <workItem from="1522063974647" duration="1818000" />
       <workItem from="1533112514855" duration="2010000" />
       <workItem from="1548514279172" duration="3625000" />
-      <workItem from="1548770380145" duration="1510000" />
+      <workItem from="1548770380145" duration="1954000" />
+      <workItem from="1548775598299" duration="327000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34741000" />
+    <option name="totallyTimeSpent" value="35512000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -274,20 +272,20 @@
     <entry file="file://$PROJECT_DIR$/img/a.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2550">
-          <caret line="150" column="33" lean-forward="true" selection-start-line="150" selection-start-column="33" selection-end-line="150" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="500" column="10" lean-forward="true" selection-start-line="500" selection-start-column="10" selection-end-line="500" selection-end-column="10" />
+          <caret line="500" column="10" selection-start-line="500" selection-start-column="10" selection-end-line="500" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="157" column="31" selection-start-line="157" selection-start-column="31" selection-end-line="157" selection-end-column="31" />
         </state>
       </provider>
     </entry>
