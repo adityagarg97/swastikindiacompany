@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+:root {
+  --color-bg-start: #1e3a8a;
+  --color-bg-end: #3b82f6;
+  --color-white: #ffffff;
+  --color-accent-red: #ef4444;
+  --color-accent-orange: #f97316;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, var(--color-bg-start), var(--color-bg-end));
+  color: var(--color-white);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  padding: 1rem 2rem;
+  text-align: center;
+}
+
+.hero {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 1rem;
+  padding: 2rem;
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 9999px;
+  background: var(--color-accent-orange);
+  color: #000;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.3s;
+}
+
+.button:hover {
+  background: var(--color-accent-red);
+  color: var(--color-white);
+}
+
+  .footer {
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.875rem;
+  }
+
+  .section {
+    padding: 4rem 2rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.5rem;
+  }
+
+  .social a {
+    color: var(--color-white);
+    text-decoration: none;
+    margin: 0 0.25rem;
+  }
+
+  .social a:hover {
+    text-decoration: underline;
+  }
